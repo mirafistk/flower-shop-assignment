@@ -1,0 +1,193 @@
+.HeaderSection{
+    background-color: blanchedalmond;
+    display: flex;
+    align-items: center;
+    padding-right: 100px;
+    
+    
+}
+.headerContent{
+    padding: 100px;
+    
+}
+.HeaderTitle{
+    color: #272727;
+font-family: Lato;
+font-size: 80px;
+
+
+}
+.btn{
+    border-radius: 8px;
+background: #E55473;
+padding: 20px 43px;
+border: 0;
+}
+.sectioncontent{
+    text-align: center;
+    padding-top: 100px;
+}
+.sectioncontent h1{
+    font-size: 40px;
+}
+.allimage{
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+.allimage p{
+    text-align: center;
+    text-decoration: underline;
+}
+.images{
+    padding: 20px;
+    background-color: #E55473;
+    border-radius: 50% 50% 0% 0%;
+    width: 464px;
+    height: 500px;
+    margin: 30px;
+}
+.images img{
+    align-items: center;
+    margin-top: 90px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.images1{
+    padding: 20px;
+    background-color: #E55473;
+    border-radius: 50% 50% 0% 0%;
+    width: 464px;
+    height: 500px;
+    margin: 30px;
+}
+.images1 img{
+    align-items: center;
+    margin-top: 50px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+.images2{
+    padding: 20px;
+    background-color: #E55473;
+    border-radius: 50% 50% 0% 0%;
+    width: 464px;
+    height: 500px;
+    margin: 30px;
+}
+.images2 img{
+    align-items: center;
+    margin-top: 90px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+.singupSection{
+    background-color: blanchedalmond;
+    display: flex;
+    align-items: center;
+    padding-right: 100px;
+    justify-content: center;
+    padding: 50px;
+    margin-top: 50px;
+}
+    
+.singupTitle{
+    color: #272727;
+font-family: Lato;
+font-size: 40px;
+}
+.off{
+    color: #E55473;
+}
+.singupContent{
+    text-align: center;
+}
+.singupContent p{
+    color: rgba(39, 39, 39, 0.60);
+text-align: center;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+}
+.singupbtn{
+    border-radius: 8px;
+background: #E55473;
+padding: 20px 43px;
+border: 0;
+
+}
+.fourimage{
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+.fourimage img{
+    width: 342px;
+    height: 396px;
+    padding: 20px;
+    margin: 10px;
+    border: 10px;
+}
+.submit{
+    justify-content: center;
+    text-align: center;
+    
+    
+}
+input{
+    width: 50%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box
+}
+.button{
+    color: #FFF;
+font-family: Lato;
+font-size: 20px;
+border-radius: 8px;
+background: #E55473;
+padding: 10px;
+border: 0;
+}
+.EmaiSection{
+  background-image: url("Rectangle\ 9.png");
+  margin: 100px;
+  align-items: center;
+  justify-content: center;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.footerSection{
+    background-color: rgb(8, 8, 7);
+    align-items: center;
+    padding: 20px;
+   
+}
+.footerSection p{
+    color: aliceblue;
+    text-align: center;
+    align-items: center;
+}
+.Flower{
+    color: #E55473;
+font-family: Lato;
+font-size: 48px;
+
+
+}
+.footercontent h1{
+    color: #FFF;
+    text-align: center;
+    align-items: center;
+}
+}
+.footercontent{
+    padding: 20px;
+}
+.footerfinal{
+    padding: 20px;
+}
